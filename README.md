@@ -8,10 +8,6 @@ Welcome to my GitHub profile! I'm passionate about software development, always 
 - 🌱 I’m constantly learning and exploring new technologies.
 - 💼 I’m a software developer with a knack for problem-solving and innovation.
 - 💬 Ask me about anything tech-related, I'd love to help!
-- 📫 How to reach me: 
-  - Email: (mailto:ayushibose123@gmail.com)
-  - LinkedIn: [Ayoshi Bose] [(https://www.linkedin.com/in/ayoshi-bose-134b772b3/ )](https://www.linkedin.com/in/ayoshi-bose-134b772b3/ )
-  - Instagram [@ayushiibose](https://www.instagram.com/ayushiibose?igsh=MXR4eXF4dDFiaTNpbw== )
 ## 🚀 Skills
 
 - **Languages:** 
@@ -25,10 +21,7 @@ Welcome to my GitHub profile! I'm passionate about software development, always 
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
- </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-bottom: 4px;" />
-  </a>
+  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🛠️ Projects
 
@@ -70,5 +63,9 @@ Feel free to connect with me:
   <a href="mailto:ayushibose123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<h3 align="center">"The best way to predict the future is to create it."</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="Inspirational Gif">
+</p>
 
 Thank you for visiting my profile! 😊
